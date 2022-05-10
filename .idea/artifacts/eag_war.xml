@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="eag:war">
+    <output-path>$PROJECT_DIR$/eag/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>eag</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="egovframework-all-in-one.war">
+      <element id="artifact" artifact-name="eag:war exploded" />
+    </root>
+  </artifact>
+</component>
