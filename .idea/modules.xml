@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eag/eag.iml" filepath="$PROJECT_DIR$/eag/eag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/eagEgov.iml" filepath="$PROJECT_DIR$/.idea/eagEgov.iml" />
+    </modules>
+  </component>
+</project>
